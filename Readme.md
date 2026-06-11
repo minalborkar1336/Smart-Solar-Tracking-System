@@ -150,7 +150,14 @@ ThingSpeak Cloud Monitoring
 
 
 
-\## 📂 Project Structure
+## 📚 Research Publication
+
+This project has been developed into a research paper and submitted for publication in IEEE Xplore.
+
+The research focuses on IoT-enabled solar tracking, automatic cleaning mechanisms, and real-time solar parameter monitoring.
+
+Publication link will be added after official release.
+
 
 
 
